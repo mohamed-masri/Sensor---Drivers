@@ -1,0 +1,16 @@
+# Keil / ARM build output
+Debug/
+Release/
+Objects/
+Listings/
+
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.dep
+
+# Temporary files
+*.bak
+*.tmp
